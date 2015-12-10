@@ -2,7 +2,7 @@
 
 /*********************************************************************
 /*## Portal class extends mysqli */
-class crud_mysqli_php extends mysqli {
+class php_mysqli_crud extends mysqli {
 
 	public function __construct(){
 			
